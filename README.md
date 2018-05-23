@@ -1,3 +1,5 @@
+# Introduction
+
 This repo records my answers to all questions from the excercises of CS229
 (Autumn 2017). http://cs229.stanford.edu/syllabus.html
 
@@ -11,14 +13,17 @@ https://github.com/zyxue/rljs with a web demo at https://rljs.herokuapp.com/.
 
 I find some of the homeworks in an earlier version
 (https://see.stanford.edu/Course/CS229) of this course interesting, so I chose
-to do some and placed the answers in the `additional` fold.
+to do some and placed the answers in the `previous_cs229` fold.
 
 
-This project is considered complete.
-
+# Development
 
 export-env:
-        conda env export > env-conda.yml
+```
+conda env export > env-conda.yml
+```
 
 create-env:
-        conda env create --prefix venv -f env-conda.yml
+```
+conda env create --prefix venv -f env-conda.yml
+```
