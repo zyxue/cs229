@@ -18,12 +18,20 @@ to do some and placed the answers in the `previous_cs229` fold.
 
 # Development
 
-export-env:
-```
-conda env export > env-conda.yml
-```
+Create virtual environment:
 
-create-env:
 ```
 conda env create --prefix venv -f env-conda.yml
+```
+
+Start the server
+
+```
+jupyter notebook --no-browser --ip 0.0.0.0
+```
+
+Export virtual environment:
+
+```
+conda env export --prefix venv > env-conda.yml
 ```
