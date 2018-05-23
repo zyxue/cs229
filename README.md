@@ -9,7 +9,16 @@ As for reinforcement learning, I've also implemented value iteration, policy
 iteration, SARSA, and Q-learning  before in javascript for the gridworld at
 https://github.com/zyxue/rljs with a web demo at https://rljs.herokuapp.com/.
 
-You might also be interested in an earlier version of cs229,
-https://see.stanford.edu/Course/CS229.
+I find some of the homeworks in an earlier version
+(https://see.stanford.edu/Course/CS229) of this course interesting, so I chose
+to do some and placed the answers in the `additional` fold.
+
 
 This project is considered complete.
+
+
+export-env:
+        conda env export > env-conda.yml
+
+create-env:
+        conda env create --prefix venv -f env-conda.yml
