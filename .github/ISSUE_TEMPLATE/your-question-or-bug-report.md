@@ -1,5 +1,5 @@
 ---
-name: Your question or bug report
+name: question or bug report
 about: Template for asking a question or reporting a bug about this repo
 
 ---
