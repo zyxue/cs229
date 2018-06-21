@@ -5,7 +5,7 @@ This repo records my answers to all questions from the excercises of CS229
 
 I tried to record all details in Jupyter notebooks. If you see any
 mistake, please let me know by
-[opening a new issue](https://github.com/zyxue/stanford-cs229/issues/new).
+[opening a new issue](https://github.com/zyxue/stanford-cs229/issues/new?template=your-question-or-bug-report.md).
 
 As for reinforcement learning, I've also implemented value iteration, policy
 iteration, SARSA, and Q-learning  before in javascript for the gridworld at
