@@ -35,3 +35,9 @@ Export virtual environment:
 ```
 conda env export --prefix venv > env-conda.yml
 ```
+
+
+# About LaTeX
+
+For interactive LaTeX editing, you could use
+https://www.codecogs.com/latex/eqneditor.php.
