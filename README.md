@@ -16,6 +16,16 @@ I find some of the homeworks in an earlier version
 to do some and placed the answers in the `previous_cs229` fold.
 
 
+# Usage
+
+For non-interactive visualization of the notebooks, you could either read them
+on github directly, or use http://nbviewer.jupyter.org/ for somewhat better
+quality.
+
+If you'd also like to modify the notebooks without setting up a local server,
+you may give https://mybinder.org/ a try.
+
+
 # Development
 
 Create virtual environment:
